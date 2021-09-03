@@ -1,16 +1,13 @@
-### Hi there 👋
+Hi, I’m le van tien👋
 
-<!--
-**levanten117/levanten117** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Java programmer💻 I'm a student at FPT Polytechnic 👨‍🎓
 
-Here are some ideas to get you started:
+I hope I can learn more from you 👀👐
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Contact with me:
+
+             🙋‍♂️: Lê Văn Tiền (https://www.facebook.com/touliver.tien/)
+             
+             📲: 0975463309
+             
+             ✉️: leo1172001@gmail.com
