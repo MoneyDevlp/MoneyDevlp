@@ -2,6 +2,8 @@ Hi, I’m le van tien👋
 
 I'm a Java programmer💻 I'm a student at FPT Polytechnic 👨‍🎓
 
+I love traveling, photography and coding 🥰
+
 I hope I can learn more from you 👀👐
 
 Contact with me:
