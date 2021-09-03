@@ -1,12 +1,12 @@
-• Hi, I’m le van tien👋
+•  Hi, I’m le van tien👋
 
-• I'm a Java programmer💻 I'm a student at FPT Polytechnic 👨‍🎓
+•  I'm a Java programmer💻 I'm a student at FPT Polytechnic 👨‍🎓
 
-• I love traveling, photography and coding 🥰
+•  I love traveling, photography and coding 🥰
 
-• I hope I can learn more from you 👀👐
+•  I hope I can learn more from you 👀👐
 
-• Contact with me:
+•  Contact with me:
 
              🙋‍♂️: Lê Văn Tiền (https://www.facebook.com/touliver.tien/)
              
