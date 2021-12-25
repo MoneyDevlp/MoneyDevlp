@@ -1,6 +1,6 @@
 ⋅  Hi, I’m le van tien 👋
 
-⋅  I'm a Java programmer💻 I'm a student at FPT Polytechnic 👨‍🎓
+⋅  I'm a Software Development💻 I'm a work at FPT Software 👨‍🎓
 
 ⋅  I love traveling, photography and coding 🥰
 
