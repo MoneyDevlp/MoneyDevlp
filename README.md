@@ -1,6 +1,6 @@
 ⋅  Hi, I’m le van tien 👋
 
-⋅  I'm a Software Development💻 I'm a work at FPT Software 👨‍🎓
+⋅  I'm a Software Development💻 I'm working at FPT Software 👨‍🎓
 
 ⋅  I love traveling, photography and coding 🥰
 
